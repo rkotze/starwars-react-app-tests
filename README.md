@@ -1,3 +1,11 @@
+# Testing React Hooks example project
+
+Read my blog post about [mocking React hooks when unit testing using Jest](https://www.richardkotze.com/coding/mocking-react-hooks-unit-testing-jest)
+
+This uses the [SWAPI](https://swapi.co/)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
